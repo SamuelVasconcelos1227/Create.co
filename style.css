@@ -37,6 +37,7 @@ li a{
     padding: 8px 15px;
     border-radius: 10px;
     transition: all 0.3s ease 0s;
+    cursor: pointer;
 }
 .btn-nav button:hover{
     background-color: rgba(69, 47, 156, 0.836);
